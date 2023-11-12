@@ -8,11 +8,4 @@
 ## Attribution
 
 - Dataset Citation:
- @misc{subir biswas_2023,
-	title={Skin-Disease-Dataset},
-	url={https://www.kaggle.com/dsv/6695743},
-	DOI={10.34740/KAGGLE/DSV/6695743},
-	publisher={Kaggle},
-	author={Subir Biswas},
-	year={2023}
-}
+ Subir Biswas. (2023). <i>Skin-Disease-Dataset</i> [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DSV/6695743
